@@ -1,0 +1,10 @@
+.menu{
+    
+width: 60%;
+margin: auto;
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+}
+
